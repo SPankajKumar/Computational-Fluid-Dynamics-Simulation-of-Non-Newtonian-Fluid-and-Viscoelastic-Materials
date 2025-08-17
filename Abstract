@@ -1,0 +1,8 @@
+The simulation of blood flow in aneurysmal arteries, particularly under non-Newtonian and
+pulsatile conditions, is of considerable importance in biomedical engineering. This project
+explores a computational framework using the Finite Element Method (FEM) to simulate
+such flows through an idealized aneurysm geometry, both pre- and post-stenting. Blood
+is modeled as a shear-thinning fluid via the power-law formulation, with pulsatile inflow
+captured using a Crank–Nicolson time integration scheme. The simulation compares two
+common stent designs — coil embolization and flow-diverting stents — for their impact on
+hemodynamic parameters.
